@@ -4,4 +4,4 @@
 
 | コースキーワード| URL | 割引|クッポン終了日|
 | --- | --- | ---|--- |
-| DeepSeek | [Udemy](https://www.udemy.com/course/1ai-deepseek/?couponCode=F9A73D3F416B0A8C1111) |　85%|2025年4月14日  |
+| DeepSeek | [Udemy](https://www.udemy.com/course/1ai-deepseek/?couponCode=F9A73D3F416B0A8C1111) |　15%OFF|2025年4月14日  |
