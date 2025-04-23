@@ -4,10 +4,10 @@
 
 | コースキーワード| URL | 割引|クーポン終了日|
 | --- | --- | ---|--- |
-| DeepSeek | [購買リンク](https://www.udemy.com/course/1ai-deepseek/?couponCode=F9A73D3F416B0A8C1111) |　15%OFF|2025年4月14日  |
+| DeepSeek | [購買リンク](https://www.udemy.com/course/1ai-deepseek/?couponCode=F68BDF11B5BA4DBFDCEE) |　15%OFF|2025年4月14日  |
 
 ## DB関連
 
 | コースキーワード| URL | 割引|クーポン終了日|
 | --- | --- | ---|--- |
-| Redis | [購買リンク](https://www.udemy.com/course/ethan-redis/?couponCode=8ED89528BC97B3E368E2) |　15%OFF | 2025年4月16日  |
+| Redis | [購買リンク](https://www.udemy.com/course/ethan-redis/?couponCode=306D7EE2B978434044F3) |　15%OFF | 2025年4月16日  |
